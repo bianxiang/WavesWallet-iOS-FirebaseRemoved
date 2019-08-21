@@ -1,4 +1,4 @@
-$\color{red}{Because some area can not connect to firebase,I changed firebase to local database}$
+# *_Because some area can not connect to firebase,I changed firebase to local database_*
 
 # Waves Wallet on iOS
 

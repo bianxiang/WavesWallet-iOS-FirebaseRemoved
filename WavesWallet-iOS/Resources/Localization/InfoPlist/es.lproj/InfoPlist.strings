@@ -1,0 +1,3 @@
+"NSCameraUsageDescription" = "La cámara es necesaria para escanear códigos QR";
+"NSFaceIDUsageDescription" = "Acceso a su cartera";
+"NSPhotoLibraryAddUsageDescription" = "La cámara es necesaria para escanear códigos QR";

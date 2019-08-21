@@ -1,0 +1,26 @@
+//
+//  ReceiveInfoTypes.swift
+//  WavesWallet-iOS
+//
+//  Created by Pavel Gubin on 10/6/18.
+//  Copyright © 2018 Waves Platform. All rights reserved.
+//
+
+import Foundation
+import DomainLayer
+
+enum ReceiveInvoice {
+    enum DTO {}
+}
+
+extension ReceiveInvoice.DTO {
+
+    struct DisplayInfo {
+        let address: String
+        let invoiceLink: String
+        let assetName: String
+        let icon: DomainLayer.DTO.Asset.Icon
+        let isSponsored: Bool
+        let hasScript: Bool
+    }
+}

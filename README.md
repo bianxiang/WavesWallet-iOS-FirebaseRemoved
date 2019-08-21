@@ -1,4 +1,4 @@
-# <u>Because some area can not connect to firebase,I changed firebase to local database</u>
+# Because some area can not connect to firebase,I changed firebase to local database
 
 # Waves Wallet on iOS
 
